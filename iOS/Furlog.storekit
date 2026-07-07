@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "pro_unlock",
+      "localizations": [
+        {
+          "description": "Unlocks unlimited entries and premium features.",
+          "displayName": "Furlog Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.groomlog.pro_unlock",
+      "referenceName": "Furlog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
